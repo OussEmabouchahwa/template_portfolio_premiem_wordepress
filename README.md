@@ -1,4 +1,4 @@
-# PortfolioPress – WordPress Portfolio Template
+# PortfolioPress –  WordPress Portfolio  Template
 
 A modern, elegant, and fully responsive WordPress portfolio template crafted for developers, designers, freelancers, agencies, and creative professionals. PortfolioPress provides a clean user experience with customizable sections to professionally showcase projects, services, skills, and personal branding.
 
